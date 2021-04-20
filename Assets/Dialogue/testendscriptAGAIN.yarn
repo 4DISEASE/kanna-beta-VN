@@ -1,0 +1,196 @@
+title: chapter0convo1one
+tags: 
+colorID: 0
+position: 694,32
+---
+<<setsprite ENDcharacter normal>>
+<< setsprite bgrenderer house1>> 
+<<speakerUnknown NameUnknown>> 
+Oh! Hello. You're awake.
+
+<< speakerThink NameThink>> 
+I take a moment to adjust to the brightness of my surroundings. My head is pounding. 
+There's a dull coppery taste in my mouth, and I can't tell what it is.
+
+<< setsprite ENDcharacter solemn>> 
+<< speakerUnknown NameUnknown>> 
+Um, you look kind of panicked. Just calm down a bit- you're safe here.
+
+<< speakerThink NameThink>> 
+My entire body is covered in water, my hair is matted to my face and I'm starting to feel increasingly cold. 
+I'm seated in a chair in the middle of a room. There's clocks covering the walls top to bottom, ticking slowly.
+<< speakerKanna NameKanna>> 
+Who are you?
+
+<< setsprite ENDcharacter think>> 
+<< speakerUnknown NameUnknown>> 
+I found you unconscious in the lake nearby. Are you feeling alright now?
+
+<< speakerThink NameThink>> 
+I can't think of anything to say. A lake?
+How could I have even gotten in there? 
+
+<< setsprite ENDcharacter reason>> 
+<< speakerEnd NameEnd>> 
+My name is End. Do you remember? You must be cold. Would you like a cup of tea? I was in the middle of making some just now.
+
+<< speakerThink NameThink>> 
+His smile skews his face strangely. 
+[[ Accept the tea |chapter0convo1teayes]]
+[[ Deny the tea |chapter0convo1teano]]
+===
+title: chapter0convo1teayes
+tags: 
+colorID: 0
+position: 333,312
+---
+<< speakerKanna NameKanna>>
+Alright, I'll have some tea. 
+It might help me think about this situation a little better, anyways.
+
+<<setsprite ENDcharacter normal>>
+<< speakerEnd NameEnd>> 
+Here you are. 
+
+<< setsprite charactername kanna>> 
+<< speakerKanna NameKanna>> 
+Thank you.
+<<speakerThink NameThink >> 
+He hands me the tea. It's warm, not piping hot... tastes pretty bitter and herbal, but calming nevertheless.
+
+<< setsprite ENDcharacter think>> 
+<< speakerEnd NameEnd>> 
+So, tell me a little more. What's the last thing you remember? 
+[[chapter0convo1two]]
+===
+title: chapter0convo1teano
+tags: 
+colorID: 0
+position: 948,337
+---
+<< speakerThink NameThink>>  
+It wouldn't be best to accept tea from someone I know very little about.
+<< speakerKanna NameKanna>>
+Tell me where I am- I need to get home. Is this a dream?
+
+<<setsprite ENDcharacter think>>
+<< speakerEnd NameEnd>>
+
+Tell me more, I'm just as confused as you are. 
+What's the last thing you remember?
+[[ chapter0convo1two]]
+===
+title: chapter0convo1two
+tags: 
+colorID: 0
+position: 607,511
+---
+<< speakerThink NameThink>> 
+I open my mouth to say something, but nothing comes out. All I can think about is my pounding headache.
+<< speakerKanna NameKanna>> 
+I... I was...
+<< speakerThink NameThink>> 
+Where was I?
+This isn't right. Well, that should be obvious. Nothing about this is right, but...
+I put my head in my hands, wracking my brain. Where was I.. where do I even live?
+I really can't remember.
+
+<< setsprite ENDcharacter solemn>> 
+<< speakerEnd NameEnd>> 
+Can you remember your name, at least?
+
+<< speakerThink NameThink>> 
+I look up at End, who is eyeing me expectantly, leaning against the countertop.
+
+<< speakerKanna NameKanna>> 
+My name... It's Kanna.
+<< speakerThink NameThink>> 
+It comes tumbling out of my mouth like water. At least I could remember that.
+
+<< setsprite ENDcharacter solemn >>
+<< speakerEnd NameEnd>> 
+Well, thank God you know who you are, at least. You see, it seems that you have suffered from a case of amnesia.
+You live here, Kanna. You're in the town of Foxglove.
+
+<< speakerKanna NameKanna>> 
+I... live here?
+
+<< setsprite ENDcharacter think>> 
+<< speakerEnd NameEnd>> 
+Yes. I'm not sure how this all came about...I last saw you during dinner.
+The next thing I knew, you were face-down in a lake, and now you can't remember anything!
+
+<< speakerThink NameThink>> 
+It seems like we knew each other beforehand. Foxglove, huh...
+He gets up, looking out the window. I hadn't noticed that it was night.
+
+<< speakerEnd NameEnd>> 
+<< setsprite ENDcharacter smirk >>
+It's getting dark. I thought I would be waiting here forever for you to wake up.
+<< setsprite ENDcharacter think>> 
+What an anomaly this is.
+You must be very disoriented. I certainly would be, too.
+Maybe you should have a good night's rest, and see if things improve.
+If it doesn't, we'll talk about it in the morning. Fragmentor is good with the doctor stuff.
+
+<< speakerThink NameThink>> 
+Who's Fragmentor...?
+That's beside the point. I don't have much of a choice, whether I can trust End or not.
+
+[[ How can I know to trust you? |chapter0convo1houseno]]
+[[ Where's my house? |chapter0convo1houseyes]]
+===
+title: chapter0convo1houseno
+tags: 
+colorID: 0
+position: 313,675
+---
+<< speakerThink NameThink>> 
+In all honesty, it's hard to believe. Is it really possible for me to mysteriously lose all of my memories?
+
+<< speakerKanna NameKanna>> 
+...How do I know that I can trust you?
+I mean, I barely remember you. I barely remember anything. For all I know, you could be plotting to kill me.
+
+<< speakerThink NameThink>> 
+That came out more morbid than I would've liked, but my argument still stands.
+It doesn't hurt to be cautious, even if I really do live here.
+
+<< speakerEnd NameEnd>> 
+<< setsprite ENDcharacter solemn>> 
+...
+Well, that's for you to decide.
+All I can say is that I mean well. You've stayed here for a while now, Kanna.
+If I can't prove it to you, I'm sure the other townspeople can.
+===
+title: chapter0convo1houseyes
+tags: 
+colorID: 0
+position: 947,699
+---
+<< speakerThink NameThink>> 
+For now, the best option is to sleep through the night.
+
+<< speakerKanna NameKanna>> 
+Um, I don't know where my house is, either.
+
+<< setsprite ENDcharacter normal>>
+<< speakerEnd NameEnd>> 
+Ah, I didn't realize you wouldn't remember that, too.
+<< setsprite ENDcharacter reason>> 
+Well, if you follow me, we'll be right on our way!
+===
+title: chapter0convo1start
+tags: 
+colorID: 0
+position: 652,-228
+---
+<< speakerThink NameThink>>
+It's dark.
+It's far, far too dark. My eyes are open, yet I can't see anything.
+Where am I?
+Slowly, a cold sensation snakes up my spine.
+I shiver.
+Then, I'm launched into light again.
+[[ chapter0convo1one ]]
+===

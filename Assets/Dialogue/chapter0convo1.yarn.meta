@@ -1,0 +1,87 @@
+fileFormatVersion: 2
+guid: cfcf88eb33481084a8f0fd07dbbfa782
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 94073015eacc34c1d8fc6786e43d60ca, type: 3}
+  baseLanguageID: en-US
+  stringIDs:
+  - chapter0convo1-chapter0convo1start-0
+  - chapter0convo1-chapter0convo1start-1
+  - chapter0convo1-chapter0convo1start-2
+  - chapter0convo1-chapter0convo1start-3
+  - chapter0convo1-chapter0convo1start-4
+  - chapter0convo1-chapter0convo1start-5
+  - chapter0convo1-chapter0convo1one-6
+  - chapter0convo1-chapter0convo1one-7
+  - chapter0convo1-chapter0convo1one-8
+  - chapter0convo1-chapter0convo1one-9
+  - chapter0convo1-chapter0convo1one-10
+  - chapter0convo1-chapter0convo1one-11
+  - chapter0convo1-chapter0convo1one-12
+  - chapter0convo1-chapter0convo1one-13
+  - chapter0convo1-chapter0convo1one-14
+  - chapter0convo1-chapter0convo1one-15
+  - chapter0convo1-chapter0convo1one-16
+  - chapter0convo1-chapter0convo1one-17
+  - chapter0convo1-chapter0convo1one-18
+  - chapter0convo1-chapter0convo1one-19
+  - chapter0convo1-chapter0convo1teayes-20
+  - chapter0convo1-chapter0convo1teayes-21
+  - chapter0convo1-chapter0convo1teayes-22
+  - chapter0convo1-chapter0convo1teayes-23
+  - chapter0convo1-chapter0convo1teayes-24
+  - chapter0convo1-chapter0convo1teayes-25
+  - chapter0convo1-chapter0convo1teano-26
+  - chapter0convo1-chapter0convo1teano-27
+  - chapter0convo1-chapter0convo1teano-28
+  - chapter0convo1-chapter0convo1teano-29
+  - chapter0convo1-chapter0convo1two-30
+  - chapter0convo1-chapter0convo1two-31
+  - chapter0convo1-chapter0convo1two-32
+  - chapter0convo1-chapter0convo1two-33
+  - chapter0convo1-chapter0convo1two-34
+  - chapter0convo1-chapter0convo1two-35
+  - chapter0convo1-chapter0convo1two-36
+  - chapter0convo1-chapter0convo1two-37
+  - chapter0convo1-chapter0convo1two-38
+  - chapter0convo1-chapter0convo1two-39
+  - chapter0convo1-chapter0convo1two-40
+  - chapter0convo1-chapter0convo1two-41
+  - chapter0convo1-chapter0convo1two-42
+  - chapter0convo1-chapter0convo1two-43
+  - chapter0convo1-chapter0convo1two-44
+  - chapter0convo1-chapter0convo1two-45
+  - chapter0convo1-chapter0convo1two-46
+  - chapter0convo1-chapter0convo1two-47
+  - chapter0convo1-chapter0convo1two-48
+  - chapter0convo1-chapter0convo1two-49
+  - chapter0convo1-chapter0convo1two-50
+  - chapter0convo1-chapter0convo1two-51
+  - chapter0convo1-chapter0convo1two-52
+  - chapter0convo1-chapter0convo1two-53
+  - chapter0convo1-chapter0convo1two-54
+  - chapter0convo1-chapter0convo1two-55
+  - chapter0convo1-chapter0convo1houseno-56
+  - chapter0convo1-chapter0convo1houseno-57
+  - chapter0convo1-chapter0convo1houseno-58
+  - chapter0convo1-chapter0convo1houseno-59
+  - chapter0convo1-chapter0convo1houseno-60
+  - chapter0convo1-chapter0convo1houseno-61
+  - chapter0convo1-chapter0convo1houseno-62
+  - chapter0convo1-chapter0convo1houseno-63
+  - chapter0convo1-chapter0convo1houseno-64
+  - chapter0convo1-chapter0convo1houseyes-65
+  - chapter0convo1-chapter0convo1houseyes-66
+  - chapter0convo1-chapter0convo1houseyes-67
+  - chapter0convo1-chapter0convo1houseyes-68
+  compilationStatus: 1
+  isSuccesfullyCompiled: 1
+  compilationErrorMessage: 
+  baseLanguage: {fileID: 7128917941130120860, guid: cfcf88eb33481084a8f0fd07dbbfa782,
+    type: 3}
+  localizations: []

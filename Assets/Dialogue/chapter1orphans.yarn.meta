@@ -1,0 +1,63 @@
+fileFormatVersion: 2
+guid: ea18003e560965c42a3dc556777619b0
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 94073015eacc34c1d8fc6786e43d60ca, type: 3}
+  baseLanguageID: en-US
+  stringIDs:
+  - chapter1orphans-Start-0
+  - chapter1orphans-Start-1
+  - chapter1orphans-Start-2
+  - chapter1orphans-Start-3
+  - chapter1orphans-Start-4
+  - chapter1orphans-Start-5
+  - chapter1orphans-Start-6
+  - chapter1orphans-Start-7
+  - chapter1orphans-Start-8
+  - chapter1orphans-Start-9
+  - chapter1orphans-Start-10
+  - chapter1orphans-Start-11
+  - chapter1orphans-Start-12
+  - chapter1orphans-Start-13
+  - chapter1orphans-Start-14
+  - chapter1orphans-Start-15
+  - chapter1orphans-Start-16
+  - chapter1orphans-Start-17
+  - chapter1orphans-Start-18
+  - chapter1orphans-Start-19
+  - chapter1orphans-Start-20
+  - chapter1orphans-Start-21
+  - chapter1orphans-Start-22
+  - chapter1orphans-Start-23
+  - chapter1orphans-Start-24
+  - chapter1orphans-ChildrenViolent-25
+  - chapter1orphans-ChildrenViolent-26
+  - chapter1orphans-ChildrenViolent-27
+  - chapter1orphans-ChildrenViolent-28
+  - chapter1orphans-ChildrenViolent-29
+  - chapter1orphans-ChildrenViolent-30
+  - chapter1orphans-ChildrenViolent-31
+  - chapter1orphans-ChildrenViolent-32
+  - chapter1orphans-ChildrenViolent-33
+  - chapter1orphans-ChildrenViolent-34
+  - chapter1orphans-ChildrenCareful-35
+  - chapter1orphans-ChildrenCareful-36
+  - chapter1orphans-ChildrenCareful-37
+  - chapter1orphans-ChildrenCareful-38
+  - chapter1orphans-ChildrenCareful-39
+  - chapter1orphans-ChildrenCareful-40
+  - chapter1orphans-ChildrenCareful-41
+  - chapter1orphans-ChildrenCareful-42
+  - chapter1orphans-ChildrenCareful-43
+  - chapter1orphans-ChildrenCareful-44
+  compilationStatus: 1
+  isSuccesfullyCompiled: 1
+  compilationErrorMessage: 
+  baseLanguage: {fileID: 7128917941130120860, guid: ea18003e560965c42a3dc556777619b0,
+    type: 3}
+  localizations: []

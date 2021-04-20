@@ -1,0 +1,336 @@
+title: chapter0convo1start
+tags: 
+colorID: 0
+position: 107,-465
+---
+<< speakerThink NameThink>>
+<< setsprite bgrenderer completeblack>> 
+It's dark.
+It's far, far too dark. My eyes are open, yet I can't see anything.
+Where am I?
+Slowly, a cold sensation snakes up my spine.
+I shiver.
+Suddenly, a pinpoint of white expands into a blinding light.
+
+<< screenfadein>>
+===
+title: chapter0convo1one
+tags: 
+colorID: 0
+position: 85,-181
+---
+<< setsprite bgrenderer house1>> 
+<<setsprite ENDcharacter solemn>>
+
+<< wait 3>> 
+
+<< fastfadein >> 
+<<speakerUnknown NameUnknown>>
+<< setsprite ENDcharacter normal>> 
+Oh! Hello. You're awake.
+
+
+<< speakerThink NameThink>> 
+I take a moment to adjust to the brightness of my surroundings. My head is pounding. 
+There's a dull coppery taste in my mouth, and I can't tell what it is.
+
+<< setsprite ENDcharacter solemn>> 
+<< speakerUnknown NameUnknown>> 
+Um, you look kind of panicked. Just calm down a bit- you're safe here.
+
+<< speakerThink NameThink>> 
+My entire body is covered in water, my hair is matted to my face and I'm starting to feel increasingly cold. 
+I'm seated in a chair in the middle of a room. There's clocks covering the walls top to bottom, ticking slowly.
+<< speakerKanna NameKanna>> 
+Who are you?
+
+<< setsprite ENDcharacter think>> 
+<< speakerUnknown NameUnknown>> 
+I found you unconscious in the lake nearby. Are you feeling alright now?
+
+<< speakerThink NameThink>> 
+I can't think of anything to say. A lake?
+How could I have even gotten in there? 
+
+<< setsprite ENDcharacter reason>> 
+<< speakerEnd NameEnd>> 
+My name is End. Do you remember? You must be cold. Would you like a cup of tea? I was in the middle of making some just now.
+
+<< speakerThink NameThink>> 
+His smile skews his face strangely. 
+[[ Accept the tea |chapter0convo1teayes]]
+[[ Deny the tea |chapter0convo1teano]]
+===
+title: chapter0convo1teayes
+tags: 
+colorID: 0
+position: -158,70
+---
+<< speakerKanna NameKanna>>
+Alright, I'll have some tea. 
+It might help me think about this situation a little better, anyways.
+
+<<setsprite ENDcharacter normal>>
+<< speakerEnd NameEnd>> 
+Here you are. 
+
+<< setsprite charactername kanna>> 
+<< speakerKanna NameKanna>> 
+Thank you.
+<<speakerThink NameThink >> 
+He hands me the tea. It's warm, not piping hot... tastes pretty bitter and herbal, but calming nevertheless.
+
+<< setsprite ENDcharacter think>> 
+<< speakerEnd NameEnd>> 
+So, tell me a little more. What's the last thing you remember? 
+[[chapter0convo1two]]
+===
+title: chapter0convo1teano
+tags: 
+colorID: 0
+position: 327,55
+---
+<< speakerThink NameThink>>  
+It wouldn't be best to accept tea from someone I know very little about.
+<< speakerKanna NameKanna>>
+Tell me where I am- I need to get home. Is this a dream?
+
+<<setsprite ENDcharacter think>>
+<< speakerEnd NameEnd>>
+
+Tell me more, I'm just as confused as you are. 
+What's the last thing you remember?
+[[ chapter0convo1two]]
+===
+title: chapter0convo1two
+tags: 
+colorID: 0
+position: 73,359
+---
+<< speakerThink NameThink>> 
+I open my mouth to say something, but nothing comes out. All I can think about is my pounding headache.
+<< speakerKanna NameKanna>> 
+I... I was...
+<< speakerThink NameThink>> 
+Where was I?
+This isn't right. Well, that should be obvious. Nothing about this is right, but...
+I put my head in my hands, wracking my brain. Where was I.. where do I even live?
+I really can't remember.
+
+<< setsprite ENDcharacter solemn>> 
+<< speakerEnd NameEnd>> 
+Can you remember your name, at least?
+
+<< speakerThink NameThink>> 
+I look up at End, who is eyeing me expectantly, leaning against the countertop.
+
+<< speakerKanna NameKanna>> 
+My name... It's Kanna.
+<< speakerThink NameThink>> 
+It comes tumbling out of my mouth like water. At least I could remember that.
+
+<< setsprite ENDcharacter solemn >>
+<< speakerEnd NameEnd>> 
+Well, thank God you know who you are, at least. You see, it seems that you have suffered from a case of amnesia.
+You're in the town of Foxglove. A few hours ago, you arrived here seeking a place to stay.
+
+<< speakerKanna NameKanna>> 
+I... arrived here?
+
+<< setsprite ENDcharacter think>> 
+<< speakerEnd NameEnd>> 
+Yes. I'm not sure how this all came about...I last saw you just before sunset.
+You came here in a hurry, asking if our town had any rooms for you.
+The next thing I knew, you were face-down in a lake, and now you can't remember anything!
+You hadn't even been introduced to everyone properly!
+
+<< speakerThink NameThink>> 
+It seems like we talked to each other beforehand. Foxglove, huh...
+Why would I come here, looking for a place to stay...?
+He gets up, looking out the window. I hadn't noticed that it was night.
+
+<< speakerEnd NameEnd>> 
+<< setsprite ENDcharacter smirk >>
+It's getting dark. I thought I would be waiting here forever for you to wake up.
+<< setsprite ENDcharacter think>> 
+What an anomaly this is.
+You must be very disoriented. I certainly would be, too.
+Maybe you should have a good night's rest, and see if things improve.
+If it doesn't, we'll talk about it in the morning. Fragmentor is good with the doctor stuff.
+
+<< speakerThink NameThink>> 
+Who's Fragmentor...?
+That's beside the point. I don't have much of a choice, whether I can trust End or not.
+
+[[ How can I know to trust you? |chapter0convo1houseno]]
+[[ Where's my house? |chapter0convo1houseyes]]
+===
+title: chapter0convo1houseno
+tags: 
+colorID: 0
+position: -226,534
+---
+<< speakerThink NameThink>> 
+In all honesty, it's hard to believe. Is it really possible for me to mysteriously lose all of my memories?
+
+<< speakerKanna NameKanna>> 
+...How do I know that I can trust you?
+I mean, I barely remember you. I barely remember anything. For all I know, you could be plotting to kill me.
+
+<< speakerThink NameThink>> 
+That came out more morbid than I would've liked, but my argument still stands.
+It doesn't hurt to be cautious, even if I really did come here on my own.
+
+<< speakerEnd NameEnd>> 
+<< setsprite ENDcharacter solemn>> 
+...
+Well, that's for you to decide.
+All I can say is that I mean well.
+If I can't prove it to you, I'm sure the other townspeople can.
+
+<< setsprite ENDcharacter think>> 
+It's far too late for you to return to a more urban area now.
+Regardless, I think it would be better for you to rest for the night.
+
+<< speakerThink NameThink>> 
+As much as I don't want to admit it, he has a point.
+It's not like I'd regain all of my memories once I left this town, anyways.
+
+<< speakerKanna NameKanna>> 
+...I understand.
+
+<<speakerThink NameThink>> 
+There has to be a reason why I came to this place- before I lost my memories.
+I suppose that's just something I have to find out while I'm here.
+
+<< speakerKanna NameKanna>> 
+I'll stay, for now.
+
+<< speakerEnd NameEnd>> 
+<< setsprite ENDcharacter normal>> 
+That's good to hear. Its always nice to have more people around.
+We'll try our best to help you out.
+<< setsprite ENDcharacter reason>> 
+You must be wondering where your house is. If you follow me, we'll be on our way.
+
+<< speakerThink NameThink>>
+He opens the door for me with a smile, and we head out of the strange house.
+
+<< screenfadein>>
+===
+title: chapter0convo1houseyes
+tags: 
+colorID: 0
+position: 367,531
+---
+<< speakerThink NameThink>> 
+For now, the best option is to sleep through the night.
+I'll ask questions in the morning, if needed.
+There has to be a reason why I came to this place- before I lost my memories.
+I suppose that's just something I have to find out while I'm here.
+
+<< speakerKanna NameKanna>> 
+Um, I don't know where my house is.
+
+<< setsprite ENDcharacter normal>>
+<< speakerEnd NameEnd>> 
+Ah, I didn't realize I hadn't given you the key yet.
+<< setsprite ENDcharacter reason>> 
+Well, if you follow me, we'll be right on our way!
+
+<< speakerThink NameThink>>
+He opens the door for me with a smile, and we head out of the strange house.
+
+<< screenfadein>>
+===
+title: chapter0convo1three
+tags: 
+colorID: 0
+position: 37,744
+---
+<< setsprite bgrenderer woods>> 
+<< speakerThink NameThink>> 
+<< fastfadein>> 
+Outside End's house, there's dirt path and countless trees covering the horizon.
+He's walking ahead of me. His all-black attire almost makes him blend in with everything else.
+I focus on the white band of his hat so I don't lose him in the shadows.
+I think that I wouldn't be able to navigate through these dense woods myself.
+
+<< setsprite ENDcharacter think>> 
+<< charfadein CharFadeIn>> 
+<< speakerEnd NameEnd>> 
+Foxglove Wood is a very isolated town.
+<< setsprite ENDcharacter reason>> 
+...But I'm sure you could've already guessed that.
+
+<< speakerThink NameThink>> 
+He speaks suddenly. It almost makes me jump.
+<< speakerKanna NameKanna>> 
+That's for sure.
+Is there anything dangerous out here?
+
+<< speakerEnd NameEnd>> 
+<< setsprite ENDcharacter think>> 
+Oh, well.
+There are coyotes. Troublesome, but really not a big deal.
+<< setsprite ENDcharacter smirk>> 
+The most dangerous thing here are probably the foxglove flowers.
+
+<< speakerThink NameThink>> 
+He laughs. The birds stir from the sound, and I hear them rustle in the trees.
+
+<< speakerEnd NameEnd>> 
+<< setsprite ENDcharacter normal>> 
+They're poisonous, you know, but they are very beautiful.
+And of course, there are actual foxes here, too.
+<< setsprite ENDcharacter think>> 
+We don't see them often, but they are around.
+<< setsprite ENDcharacter smirk>> 
+Whenever I see one, I take it as a sign of good luck. I am pretty superstitious, you see.
+
+<< speakerThink NameThink>>
+//make him dissapear here
+Strange. It's usually a four leaf clover...or a ladybug.
+Now that I think about it, End looks a little like a fox.
+Maybe it's the mischievous expressions.
+Before I can think about it any longer, we come to a stop.
+
+<< speakerEnd NameEnd>>
+<< setsprite ENDcharacter normal>> 
+Here we are. Your house is just up ahead.
+
+<< speakerThink NameThink>> 
+It's a small house, similar to the one we just exited. 
+
+<<  speakerEnd NameEnd>> 
+<< setsprite ENDcharacter reason>> 
+And before I forget, here is your key...
+
+<< speakerThink NameThink>> 
+He hands me a key, presumably to unlock my front door.
+
+<< speakerEnd NameEnd>> 
+<< setsprite ENDcharacter think>> 
+Well, Kanna, I think this is where we part ways.
+Someone will come to wake you in the morning, so don't be too surprised.
+The other townspeople will be awake. You can introduce yourself to them.
+
+<< speakerThink NameThink>> 
+That's right. I had forgotten that there were other people that lived here, too. 
+I wonder how many there are.
+
+<< speakerEnd NameEnd>> 
+<< setsprite ENDcharacter smirk>> 
+If anyone gives you trouble, let me know.
+
+<< speakerThink NameThink>> 
+He lets out another short laugh.
+
+<< speakerEnd NameEnd>> 
+<< setsprite ENDcharacter normal>>  
+They likely won't, though. Everyone is welcoming around here.
+In any case, I hope you have a good night's rest. 
+Keep in mind that this can be your home for as long as it takes you to remember where you need to be.
+
+<< screenfadein>>
+===

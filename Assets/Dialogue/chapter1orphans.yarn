@@ -1,0 +1,169 @@
+title: Start
+tags: 
+colorID: 0
+position: -35,28
+---
+<< speakerharold NameHarold>> 
+BOOOOOOOOM~!!
+Waaaahh!! Big explosion on the right!!
+Quick!! Send backup!!
+
+<< speakerelizabeth NameElizabeth>> 
+BAAAAAAMMM!!
+I launched a missile! Face your doom!!
+
+<< speakerharold NameHarold>> 
+Noooo!! True heroes never surrender!!
+Troops, CHA-
+<< wait 1>>
+Hm? Who are you? You're interrupting our battle!
+
+<< speakerelizabeth NameElizabeth>> 
+Ohh... You must be that person End talked about, right?
+Yes... Ka....n...
+
+<< speakerharold NameHarold>> 
+Katie? Katrina? 
+
+<< speakerkanna NameKanna>> 
+...Not quite. My name is Kanna.
+
+<< speakerharold NameHarold>>
+Kanna. What a weird name. Haha!!
+
+<< speakerElizabeth NameElizabeth>>
+You should know our names since we know your's.
+It's a trade. I am Elizabeth.
+
+<< speakerharold NameHarold>>
+I'm Harold. Glad to meet you!!
+
+<< speakerthink NameThink>> 
+They look like they are no older than 9... maybe less.
+
+<< speakerkanna NameKanna>> 
+What are you two doing out here?
+
+<< speakerharold NameHarold>> 
+Why, playing war, of course!!
+
+<< speakerElizabeth NameElizabeth>> 
+Yes. Like Lucien did. I think his uniform is very sharp.
+
+<< speakerharold NameHarold>> 
+Isn't it? And he's so big and tall!!
+Want to join in, Kanna? Be on my side, I'm losing...
+
+<< speakerKanna NameKanna>> 
+Oh, well...
+
+[[ Isn't that a bit violent? |ChildrenViolent]] 
+[[ Please be careful out here. |ChildrenCareful]]
+===
+title: ChildrenViolent
+tags: 
+colorID: 0
+position: -266,285
+---
+<< speakerKanna NameKanna>> 
+You two... Isn't that a bit violent?
+
+<< speakerHarold NameHarold>> 
+Hm? What do you mean? We do this all the time!!
+
+<< speakerKanna NameKanna>>
+You should maybe be playing 'house' instead of, well... trying to kill each other.
+We want to be friendly to each other, right?
+
+<< speakerElizabeth NameElizabeth>>
+Hmm... But End said something like...
+'That's how the world works'... And then he laughed!
+
+<< speakerHarold NameHarold>>
+Yeah, End is smart! He knows a lot of stuff.
+He scolds us if we do anything wrong...
+
+<< speakerElizabeth NameElizabeth>>
+So playing war is allowed.
+Don't worry, okay? We aren't breaking any rules. Promise.
+
+<<speakerKanna NameKanna>>
+Alright, then. 
+
+<<speakerThink NameThink>>
+I should've known that I wouldn't be able to talk two children out of their games.
+
+<<speakerHarold NameHarold>>
+You should join us!!
+Be on my side, I'm losing~.
+
+<<speakerKanna NameKanna>>
+I appreciate it but... I have some things I need to do.
+Maybe next time.
+
+<<speakerElizabeth NameElizabeth>>
+Aw.
+You can choose the game next time if you want.
+
+<<speakerHarold NameHarold>>
+Don't pick the scientists game, Kanna! It's so scary...
+
+<<speakerThink NameThink>>
+I have no idea what "the scientists game" entails, but at this point, I don't know if I want to know.
+
+<<speakerElizabeth NameElizabeth>>
+You just don't like it because you're a scaredy cat.
+I am no scaredy cat.
+
+<<speakerHarold NameHarold>>
+Hey!! I'm not one either...
+
+<<speakerKanna NameKanna>>
+Don't start arguing now. Be good to each other!
+
+<<speakerHarold NameHarold>>
+Okaaay~.
+===
+title: ChildrenCareful
+tags: 
+colorID: 0
+position: 194,265
+---
+<< speakerthink NameThink>> 
+Children will be children, I guess..
+I'll let them have their fun, but I should leave.
+
+<< speakerkanna NameKanna>> 
+I can't right now, maybe another time.
+Please be careful out here. There are sharp bushes.
+
+<< speakerThink NameThink>> 
+And poisonous flowers, apparently.
+
+<< speakerharold NameHarold>> 
+Aww... If you say so. 
+Darn! I'm going to die now!!
+
+<< speakerelizabeth NameElizabeth>>
+It is okay, Kanna. We are experts at avoiding bushes.
+You can choose the game next time, then.
+
+<<speakerHarold NameHarold>>
+Just don't choose the scientists game, that one's too scary...
+
+<<speakerElizabeth NameElizabeth>>
+You just don't like it because you're a scaredy cat.
+I am no scaredy cat.
+
+<<speakerHarold NameHarold>>
+Hey!! I'm not one either...
+
+<<speakerKanna NameKanna>>
+Don't start arguing now. Be good to each other!
+
+<<speakerHarold NameHarold>>
+Okaaay~.
+
+<< speakerthink NameThink>> 
+The two continue play-fighting. They seem to be having fun.
+===

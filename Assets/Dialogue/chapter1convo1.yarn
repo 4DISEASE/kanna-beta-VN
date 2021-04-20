@@ -1,0 +1,74 @@
+title: Start
+tags: 
+colorID: 0
+position: 76,180
+---
+<< setsprite FRAGcharacter normal>> 
+<< speakerUnknown NameUnknown>> 
+<< charfadein CharFadeIn>> 
+<<fastfadein>>
+Pardon the intrusion.
+Your name must be Kanna, correct?
+
+<< speakerThink NameThink>> 
+A man steps into the small house, speaking quietly.
+He's pale... almost too pale.
+
+<< speakerKanna NameKanna>> 
+Yes... who are you?
+
+<< speakerFrag NameFrag>>
+<<setsprite FRAGcharacter reason>>
+I'm Fragmentor. I take care of the church on the hill.
+Maybe you haven't seen it yet, or you don't remember it.
+<< setsprite FRAGcharacter normal>> 
+End informed me of your... unfortunate accident yesterday. How are you?
+
+<< speakerKanna NameKanna>>
+The same, I guess. I still don't remember anything. 
+
+<< speakerThink NameThink>> 
+<< setsprite FRAGcharacter timid>> 
+He looks away, face unsure.
+
+
+<< speakerFrag NameFrag>> 
+<< setsprite FRAGcharacter normal>> 
+I'm... 
+<< setsprite FRAGcharacter timid>> << wait 2>> 
+<<setsprite FRAGcharacter normal>>
+I'm sorry about that. I hope it gets better.
+<< setsprite FRAGcharacter reason>> 
+Anyhow, as I keep the records for this town, I thought it would be appropriate to mark you down in some form.
+
+<< speakerKanna NameKanna>>
+...Records?
+
+<< speakerFrag NameFrag>>
+<< setsprite FRAGcharacter normal>> 
+Yes. The people who come to and exit the town.
+<<setsprite FRAGcharacter timid>>
+It's... sort of a security measure.
+
+<< speakerThink NameThink>>
+That's understandable, in a sense.
+
+<< speakerFrag NameFrag>>
+I will mark you down as a 'visitor' for now, then...
+But if you want to stay longer, you can come to me and I will make changes.
+
+<<setsprite FRAGcharacter normal>>
+I must go now. It was nice meeting you.
+<< setsprite FRAGcharacter reason>> 
+I will be at the church if you ever need me.
+
+<< speakerKanna NameKanna>> 
+Alright, then. You too.
+
+<< charfadeout CharFadeOut>> 
+
+<< speakerThink NameThink>> 
+He leaves quickly, almost before I can tell him goodbye as well.
+<< wait 1>> 
+Well, I should probably go outside and meet the other townspeople.
+===

@@ -1,0 +1,108 @@
+title: chapter0convo2one
+tags: 
+colorID: 0
+position: 288,-22
+---
+<< fastfadein>> 
+<< speakerThink NameThink>> 
+
+<< if visited ("chapter0convo2one") is false>> 
+So this is my room. It feels bigger than End's, but maybe that's because it's so empty.
+
+<< else>> 
+<<endif>>
+
+<< set $visitedbedroom to true>>
+===
+title: kannabed
+tags: 
+colorID: 0
+position: 272,279
+---
+<< fastfadein>> 
+
+<< if visited ("kannabed") is false>> 
+<< speakerThink NameThink>> 
+This is my bed, I guess. It's clean and nicely made.
+<< else>> 
+I should finish looking at everything before I go to sleep.
+<< endif>>
+===
+title: kannadrawer
+tags: 
+colorID: 0
+position: 610,241
+---
+<< fastfadein>> 
+A simple but sturdy drawer set with nothing inside.
+If I brought any clothes along with me, I could've placed them here.
+Well, End said I got here in a hurry, so there's no chance of that.
+===
+title: kannaframe
+tags: 
+colorID: 0
+position: -36,242
+---
+<< fastfadein>> 
+An empty picture frame.
+I don't have anything to put inside it, though.
+===
+title: bathroomenter
+tags: 
+colorID: 0
+position: 265,536
+---
+<< fastfadein>> 
+<< speakerThink NameThink>> 
+
+<< if visited ("bathroomenter") is false>> 
+Like everything else, the bathroom is small.
+<< else>> 
+<<endif>>
+===
+title: mirror
+tags: 
+colorID: 0
+position: -122,779
+---
+<< setsprite bgrenderer mirror>> 
+<< fastfadein>> 
+It's me. I don't really know what I expected.
+
+<< setsprite bgrenderer bathroom>>
+===
+title: sink
+tags: 
+colorID: 0
+position: 206,788
+---
+<< fastfadein>> 
+A normal sink. 
+I turn the knobs. The water runs fine.
+===
+title: shower
+tags: 
+colorID: 0
+position: 488,800
+---
+<< fastfadein>> 
+There's a bathtub with a shower curtain in front of it.
+If I have to stay here for long, I'll be using this.
+Who knows how safe I'll feel...?
+===
+title: towel
+tags: 
+colorID: 0
+position: 709,763
+---
+<< fastfadein>> 
+There's a white towel on the hanger.
+I use it to wipe off whatever remaining moisture that is on my body, even though most of the water dried off beforehand.
+===
+title: bathroomdoorway
+tags: 
+colorID: 0
+position: 821,179
+---
+<<sceneswitch convo5>>
+===

@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 7eeb0561328c2ff4481827d5e1afb652
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 94073015eacc34c1d8fc6786e43d60ca, type: 3}
+  baseLanguageID: en-US
+  stringIDs: []
+  compilationStatus: 1
+  isSuccesfullyCompiled: 0
+  compilationErrorMessage: "Error on line 29 at position 26:\nextraneous input '
+    the tea' expecting ']]'\r\n[[ Accept the tea |Accept the tea]] \r\n                        
+    ^^^^^^^^"
+  baseLanguage: {instanceID: 0}
+  localizations: []

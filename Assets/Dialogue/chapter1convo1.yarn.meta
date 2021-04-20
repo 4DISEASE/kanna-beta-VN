@@ -1,0 +1,36 @@
+fileFormatVersion: 2
+guid: ecba7d25db574b849b7310a03974f885
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 94073015eacc34c1d8fc6786e43d60ca, type: 3}
+  baseLanguageID: en-US
+  stringIDs:
+  - chapter1convo1-Start-0
+  - chapter1convo1-Start-1
+  - chapter1convo1-Start-2
+  - chapter1convo1-Start-3
+  - chapter1convo1-Start-4
+  - chapter1convo1-Start-5
+  - chapter1convo1-Start-6
+  - chapter1convo1-Start-7
+  - chapter1convo1-Start-8
+  - chapter1convo1-Start-9
+  - chapter1convo1-Start-10
+  - chapter1convo1-Start-11
+  - chapter1convo1-Start-12
+  - chapter1convo1-Start-13
+  - chapter1convo1-Start-14
+  - chapter1convo1-Start-15
+  - chapter1convo1-Start-16
+  - chapter1convo1-Start-17
+  compilationStatus: 1
+  isSuccesfullyCompiled: 1
+  compilationErrorMessage: 
+  baseLanguage: {fileID: 7128917941130120860, guid: ecba7d25db574b849b7310a03974f885,
+    type: 3}
+  localizations: []
