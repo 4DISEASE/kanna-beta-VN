@@ -27,5 +27,6 @@ Characters are obviously really important to me. I found that these renditions o
 
 ### Fragmentor
 - The cult leader (once again a secret)
-- Obligatory depressed sadboy (i made him too soft in this rendition. i don't like it)
+- Obligatory depressed sadboy (i made him too soft in this rendition)
 - Behind-the-scenes role of paperwork and dissecting bodies of course
+- One-sided affection towards End ???
