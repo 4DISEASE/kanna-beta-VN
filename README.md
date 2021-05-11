@@ -1,6 +1,8 @@
 # kanna-beta-VN
 - First draft of a visual novel type game
 - Ultimately scrapped due to story conflicts and being too grimdark
+- The assets and scripts are way too messy, don't look for your own good
+- Also the sprites are kind of funny looking
 
 ## Storyline
 
@@ -27,6 +29,23 @@ Characters are obviously really important to me. I found that these renditions o
 
 ### Fragmentor
 - The cult leader (once again a secret)
-- Obligatory depressed sadboy (i made him too soft in this rendition)
+- Obligatory depressed sadboy
 - Behind-the-scenes role of paperwork and dissecting bodies of course
-- One-sided affection towards End ???
+- One-sided affection towards End (???)
+
+### Annie
+- Woman who slaughters?
+- Into taxidermy
+- Apparently complies to the rule of the cult strictly
+- I don't really know. She wasn't fleshed out that much
+
+### Harold and Elizabeth
+- Two orphans who live on the town grounds
+- Secretly two emissaries from god?
+- Some weird thing about justice. With balance imagery...
+
+### Lucien
+- Washed up ex-soldier
+- Has shellshock, alerted by loud noises
+- Cares deeply for his wife (Alice) who is like... a corpse preserved in a tube
+- Deep down is a nice guy but he has problems
