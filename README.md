@@ -4,6 +4,9 @@
 - The assets and scripts are way too messy, don't look for your own good
 - Also the sprites are kind of funny looking
 
+![asdfasdfsadf](https://user-images.githubusercontent.com/70781122/118181493-afeb0180-b3ec-11eb-833c-88c49a7b145a.JPG)
+![DKFSDFHJ](https://user-images.githubusercontent.com/70781122/118181601-ca24df80-b3ec-11eb-8405-905aeb19a7c8.JPG)
+
 ## Storyline
 
 Since no one is going to read this but me, I'll just ramble a bit. Before I rewrote Kanna's story, it initially followed the descent of a girl into a cult town.
